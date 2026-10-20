@@ -1,0 +1,10 @@
+
+.DS_Store
+.env
+*.log
+
+# Local database configuration
+config/db.php
+
+# Local database test
+test_db.php
